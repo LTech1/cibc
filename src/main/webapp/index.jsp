@@ -20,7 +20,7 @@
                 <img src="images/logo.jpg" alt="" width="100">
         </span>
         <span style="font-weight: bold;">
-                Landmark Technology,
+                Lion Technologies,
                 Toronto, Ontario, Canada
                 +1 437 215 2483,
                 mylandmarktech@gmail.com
