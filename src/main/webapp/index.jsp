@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology  --> A Metropolitan University Company</h1>
+<h1 align="center">Lion Technologies  --> A Metropolitan University Company</h1>
 <h2 align="center"> Welcome to Landmark Technology.
         Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers.
         We offer interview preparations and job assitance.
@@ -23,7 +23,7 @@
                 Lion Technologies,
                 Toronto, Ontario, Canada
                 +1 437 215 2483,
-                mylandmarktech@gmail.com
+                info@liontechpros.com
                 <br>
                 <a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
         </span>
