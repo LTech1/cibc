@@ -21,7 +21,7 @@
         </span>
         <span style="font-weight: bold;">
                 Lion Technologies,
-                Toronto, Ontario, Canada
+                Toronto, Ontario, Canada, North America
                 +1 437 215 2483,
                 info@liontechpros.com
                 <br>
