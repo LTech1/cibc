@@ -95,13 +95,13 @@
             <repository>
               <id>nexus</id>
               <name>Lion Technologies Releases Nexus Repository</name>
-              <url>http://18.191.85.236:8081/repository/piza-orillia-releases/</url>
+              <url>http://3.21.207.62:8081/repository/walmart-releases/</url>
             </repository>
 
             <snapshotRepository>
             <id>nexus</id>
             <name>Lion Technologies Snapshot Nexus Repository </name>
-          <url>http://18.191.85.236:8081/repository/pizza-orillia-snapshop/</url>
+          <url>http://3.21.207.62:8081/repository/walmart-snapshop/</url>
 
             </snapshotRepository>
 
