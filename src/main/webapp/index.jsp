@@ -22,7 +22,7 @@
         <span style="font-weight: bold;">
                 Lion Technologies,
                 Toronto, Ontario, Canada, North America
-                +1 437 215 2483,
+                +1 647-381-8836,
                 info@liontechpros.com
                 <br>
                 <a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
