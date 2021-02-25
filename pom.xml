@@ -108,7 +108,7 @@
         </distributionManagement>
 
         <build>
-                <finalName>maven-web-app</finalName>
+                <finalName>MTN-Cameroon-web-app</finalName>
 
                 <plugins>
                         <plugin>
